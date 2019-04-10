@@ -8,12 +8,23 @@ Languages and Libraries
 - Pandas
 - Scikit‐learn
 
-Scraping Tools
-- Beautiful Soup
-- RegEx
-- Python Pickle
+Machine Learning Algorithms
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+Classification Tools/Metrics:
+- F1 Score
+- Precision
+- Recall
+- Confusion Matrix
 
 Framework and Visualization Tools
 - Tableau
 - Matplotlib
 - Seaborn
+
+Applied Skills:
+- Dataset Joins and Merges
+- Feature Engineering
+- AWS
