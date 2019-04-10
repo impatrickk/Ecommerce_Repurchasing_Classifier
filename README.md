@@ -5,6 +5,12 @@ Dataset can be found here:
 https://www.kaggle.com/c/instacart-market-basket-analysis
 
 ## Tools
+Applied Skills:
+- Dataset Joins and Merges
+- Feature Engineering
+- Big Data Analysis (34+ million rows)
+- Amazon Web Services (AWS)
+
 Languages and Libraries
 - Python
 - NumPy
@@ -26,9 +32,3 @@ Framework and Visualization Tools
 - Tableau
 - Matplotlib
 - Seaborn
-
-Applied Skills:
-- Dataset Joins and Merges
-- Feature Engineering
-- Big Data Analysis (34+ million rows)
-- Amazon Web Services (AWS)
